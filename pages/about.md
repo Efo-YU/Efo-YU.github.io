@@ -5,7 +5,7 @@ title: About Me
 
 # About Me
 <img width="150" src="https://avatars.githubusercontent.com/u/169594234">
-Hello.
+  < Heya!
 
 I'm **Efo**, an undergrad developer.
 
