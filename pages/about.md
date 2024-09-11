@@ -4,8 +4,8 @@ title: About Me
 ---
 
 # About Me
-<img width="150" src="https://avatars.githubusercontent.com/u/169594234">
-  < Heya!
+<img width="100" src="https://avatars.githubusercontent.com/u/169594234">
+&nbsp;< Heya!
 
 I'm **Efo**, an undergrad developer.
 
