@@ -1,6 +1,6 @@
 Welcome to Efo's homepage!
 
-[Posts](/_posts/_postsIndex.md)
+[Posts](/posts.md)
 
 [About](/about.md)
 
