@@ -4,8 +4,10 @@ title: About Me
 ---
 
 # About Me
+<img width="150" src="https://avatars.githubusercontent.com/u/169594234">
+Hello.
 
-Hello. I'm **Efo**, an undergrad developer.
+I'm **Efo**, an undergrad developer.
 
 ## My Journey
 
@@ -13,7 +15,7 @@ Hello. I'm **Efo**, an undergrad developer.
 
 ## Skills
 
-- **Programming Languages**: JavaScript
+- **Programming Languages**: JS
 - **Frameworks**: Express
 - **Tools**: Git, VSCode
 
