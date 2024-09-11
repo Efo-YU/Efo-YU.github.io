@@ -1,1 +1,0 @@
-Ganbaru zo~
