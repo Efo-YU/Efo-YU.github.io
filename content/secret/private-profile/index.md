@@ -66,6 +66,6 @@ title: "身内向けプロフィール"
 ## 開発・パソコンカタカタ
 
 - S/W，特に Web を中心にやってます
-  - Scripting や Automatin をよくやります
+  - Scripting や Automation をよくやります
 - 様々なコストを極力抑えて開発することに強く気持ちがあります
 - 環境構築をしっかり行ったうえで，Best Practice や DevOps を意識して開発しています
